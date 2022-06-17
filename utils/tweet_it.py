@@ -120,7 +120,3 @@ class tweet_it():
                 time.sleep(60*60*5)
 
 
-t = tweet_it()
-t.programming_quotes()               
-
-
