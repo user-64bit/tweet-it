@@ -1,4 +1,8 @@
 # tweet-it
+<div align="center">
+ Tweet-it is Twitter Bot which tweets motivational quotes, programming quotes, good morning/afternoon/evening/night messages. :)
+</div>
+
 ## How to Set-up?
 - Step 1: Get twitter Developer Account [here](https://developer.twitter.com/en)
 - Step 2: Clone This Repository `git clone https://github.com/arth2002/tweet-it.git`
